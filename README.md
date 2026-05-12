@@ -64,7 +64,7 @@
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
