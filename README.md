@@ -12,10 +12,10 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://linkedin.com/in/piyushhyadav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/Piyushh_001"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:piyush25022005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://instagram.com/ypiyuushh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/piyushhyadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/Piyushh_001" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+  <a href="mailto:piyush25022005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://instagram.com/ypiyuushh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ## 💻 Tech Stack:
@@ -38,12 +38,14 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=PiyushhYadav&icon=0&color=0" alt="Visit Count" /></a>
+  <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=PiyushhYadav&icon=0&color=0" alt="Visit Count" /></a>
 </p>
