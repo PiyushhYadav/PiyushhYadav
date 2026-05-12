@@ -42,10 +42,7 @@
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=PiyushhYadav&icon=0&color=0" alt="Visit Count" /></a>
-</p>
+
