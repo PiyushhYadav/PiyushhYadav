@@ -18,22 +18,40 @@
   <a href="https://instagram.com/ypiyuushh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## 💻 Tech Stack:
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  <br>
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,c,postgres&theme=dark" alt="Languages" />
+  
+  <br><br>
 
-**AI / GenAI:**
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-1c3c3c?style=for-the-badge) ![Vector DBs](https://img.shields.io/badge/Vector_DBs-FAISS_|_Pinecone-blue?style=for-the-badge)
+  <p><b>AI & GenAI</b></p>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/-Vector%20DBs-222222?style=flat-square" height="26" />
+  <img src="https://img.shields.io/badge/-FAISS-111111?style=flat-square" height="26" />
+  <img src="https://img.shields.io/badge/-RAG-333333?style=flat-square" height="26" />
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <br><br>
 
-**Backend & APIs:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-EA580C?style=for-the-badge)
+  <p><b>Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" />
 
-**Cloud & Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  <br><br>
+
+  <p><b>Backend & APIs</b></p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend" />
+  <br>
+  <img src="https://img.shields.io/badge/-Convex-EA580C?style=flat-square" height="26" style="margin-top: 8px;" />
+
+  <br><br>
+
+  <p><b>Cloud & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp,firebase,vercel&theme=dark" alt="Cloud and Tools" />
+</div>
 
 
 ## 📊 GitHub Stats
