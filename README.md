@@ -20,7 +20,7 @@
   <code>LinkedIn</code> <code>X</code> <code>Email</code> <code>Instagram</code>
 </p>
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 <div align="center">
   <p><b>Languages</b></p>
