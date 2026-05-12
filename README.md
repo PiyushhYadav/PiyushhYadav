@@ -30,23 +30,6 @@
 **Cloud & Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🚀 Projects
-
-*   **[Civic Mirror — Community Platform](https://github.com/PiyushhYadav/CivicMirror)**
-    *   Full-stack platform that fetches civic complaints from Reddit API and auto-escalates them to municipal authorities via automated email notifications.
-    *   AI-based urgency classification and interactive geo-tagged maps.
-    *   *Tech: React, Node.js, Express.js, Supabase, Reddit API, Leaflet, Nodemailer*
-*   **[Prompt Police — AI Security System](https://github.com/PiyushhYadav/prompt-police)**
-    *   Real-time prompt classifier with 95% accuracy across 500+ test cases to ensure safety before prompts reach LLMs.
-    *   Detects and flags unsafe or manipulative intent in real-time.
-    *   *Tech: FastAPI, Groq, LangChain, Netlify*
-
-## 🏆 Hackathons & Competitions
-
-*   **CodeZen 2.0 Hackathon** - Top 6 of 200+ teams (National)
-*   **HACKSAGON** - Finalist (National)
-*   **Code Clash Hackathon** - Participant (National)
-*   **Catalyst Gen** - Participant (National)
 
 ## 📊 GitHub Stats:
 <p align="center">
