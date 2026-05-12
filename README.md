@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">B.Tech IT Student · Python Developer · AI/ML Enthusiast</h3>
+<h1 align="center">Hey there, I'm Piyush 👋</h1>
+<h3 align="center">B.Tech IT · Python Developer · AI/ML Enthusiast</h3>
+<p align="center"><i>Building intelligent systems at the intersection of security and generative AI</i></p>
 
-<p align="center">
-  B.Tech Information Technology student at MSIT specializing in AI/ML and full-stack development, with hands-on experience building LLM-based security systems and REST API-driven platforms. Proficient in Python, Java, and JavaScript with strong expertise in Generative AI, LangChain, and RAG pipelines.
-</p>
+## 🧠 About Me
+
+- 🎓 **B.Tech Information Technology** student at MSIT, Delhi
+- 🤖 Specializing in **AI/ML** and **full-stack development**
+- 🔐 Built **LLM-based security systems** and **REST API-driven platforms**
+- 🧪 Hands-on with **Generative AI**, **LangChain**, and **RAG pipelines**
+- 💡 Always exploring the latest in **open-source AI**
 
 ## 🌐 Socials:
 <p align="center">
