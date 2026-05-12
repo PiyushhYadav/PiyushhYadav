@@ -24,6 +24,8 @@
 
   <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=py,java,js,cpp,c,postgres&theme=dark" alt="Languages" />
+  <br>
+  <p><code>Python</code> <code>Java</code> <code>JavaScript</code> <code>C++</code> <code>C</code> <code>SQL</code></p>
   
   <br><br>
 
@@ -39,18 +41,23 @@
 
   <p><b>Frontend</b></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" />
+  <br>
+  <p><code>React</code> <code>Next.js</code> <code>HTML5</code> <code>CSS3</code></p>
 
   <br><br>
 
   <p><b>Backend & APIs</b></p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend" />
   <br>
+  <p><code>FastAPI</code> <code>Flask</code></p>
   <img src="https://img.shields.io/badge/-Convex-EA580C?style=flat-square" height="26" style="margin-top: 8px;" />
 
   <br><br>
 
   <p><b>Cloud & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=git,docker,gcp,firebase,vercel&theme=dark" alt="Cloud and Tools" />
+  <br>
+  <p><code>Git</code> <code>Docker</code> <code>Google Cloud</code> <code>Firebase</code> <code>Vercel</code></p>
 </div>
 
 
