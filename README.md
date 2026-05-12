@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushhYadav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
