@@ -36,12 +36,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushhYadav&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
 </p>
 
 ---
