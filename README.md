@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Piyush 👋</h1>
-<h3 align="center">B.Tech IT · Python Developer · AI/ML Enthusiast</h3>
+<h3 align="center">B.Tech IT · FullStack Developer · AI/ML Enthusiast</h3>
 <p align="center"><i>Building intelligent systems at the intersection of security and generative AI</i></p>
 
 ## 🧠 About Me
